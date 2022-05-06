@@ -1,0 +1,9 @@
+.additional {
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+}
+
+.quantity {
+  font-weight: bold;
+}

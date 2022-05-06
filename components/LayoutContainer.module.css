@@ -1,0 +1,10 @@
+.siteContainer{
+    padding: "0 50px";
+    margin-top: 64px;
+}
+
+@media (max-width: 768px) {
+    .siteContainer {
+        padding: 1em;
+    }
+  }
